@@ -8,14 +8,14 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:naz.yeasin@gmail.com)
 ![](https://komarev.com/ghpvc/?username=Parniakhaksabz&color=brightgreen&style=for-the-badge)
 
-<h4>Hi I am Yeasin 💇‍♂️ , a passoniate Fullstack deveolper from Bangladesh.I am a Self-taught software Developer. I have a profound knowledge in Django, Javascript & Rest Framework. I love to work with new Technologies and like to learn new things everytime .<h4>
+<h4>Hi I am Parnia 💇‍♂️ , a passoniate Fullstack deveolper from Iran.I am a Self-taught software Developer. I have a profound knowledge in Django, Javascript & Rest Framework. I love to work with new Technologies and like to learn new things everytime .<h4>
 
  <table align="center" width="100%" height="100%" >
    <tr>
      <td> 
   
-![Github stats](https://github-readme-stats.vercel.app/api?username=yeazin&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
-     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeazin&theme=radical&layout=compact)](https://github.com/yeazin) </td>
+![Github stats](https://github-readme-stats.vercel.app/api?username=Parniakhaksabz&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
+     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parniakhaksabz&theme=radical&layout=compact)](https://github.com/Parniakhaksabz) </td>
    </tr>
   </table>
   
