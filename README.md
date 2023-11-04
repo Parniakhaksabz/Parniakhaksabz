@@ -91,7 +91,7 @@
 
 
 
-[![Yeasin`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yeazin&theme=github-compact)](https://github.com/yeazin/github-readme-activity-graph)
+[![Yeasin`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Parniakhaksabz&theme=github-compact)](https://github.com/yeazin/github-readme-activity-graph)
 
 
  
